@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "stm32_blackpill")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/stm32_blackpill.kicad_sym")(options "")(descr ""))
+  (lib (name "ws2812_2020")(type "Legacy")(uri "${KIPRJMOD}/lib_sch/ws2812_2020.lib")(options "")(descr ""))
+  (lib (name "keyboardio_blackpill-rescue")(type "Legacy")(uri "${KIPRJMOD}/keyboardio_blackpill-rescue.lib")(options "")(descr ""))
+)

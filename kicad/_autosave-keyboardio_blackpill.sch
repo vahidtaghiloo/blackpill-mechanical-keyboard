@@ -1,0 +1,3434 @@
+EESchema Schematic File Version 5
+EELAYER 36 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 2300 3800
+Connection ~ 2300 4200
+Connection ~ 2300 4600
+Connection ~ 2300 5000
+Connection ~ 2800 3600
+Connection ~ 2800 4000
+Connection ~ 2800 4400
+Connection ~ 2900 3800
+Connection ~ 2900 4200
+Connection ~ 2900 4600
+Connection ~ 2900 5000
+Connection ~ 3400 3600
+Connection ~ 3400 4000
+Connection ~ 3400 4400
+Connection ~ 3500 3800
+Connection ~ 3500 4200
+Connection ~ 3500 4600
+Connection ~ 3500 5000
+Connection ~ 4000 3600
+Connection ~ 4000 4000
+Connection ~ 4000 4400
+Connection ~ 4100 3800
+Connection ~ 4100 4200
+Connection ~ 4100 4600
+Connection ~ 4100 5000
+Connection ~ 4600 3600
+Connection ~ 4600 4000
+Connection ~ 4600 4400
+Connection ~ 4700 3800
+Connection ~ 4700 4200
+Connection ~ 4700 4600
+Connection ~ 4700 5000
+Connection ~ 5200 3600
+Connection ~ 5200 4000
+Connection ~ 5200 4400
+Connection ~ 5300 4600
+Connection ~ 5300 5000
+Connection ~ 5400 2750
+Connection ~ 5400 3800
+Connection ~ 5600 2350
+Connection ~ 5800 3600
+Connection ~ 5800 4400
+Connection ~ 5900 4600
+Connection ~ 5900 5000
+Connection ~ 6000 2350
+Connection ~ 6000 3800
+Connection ~ 6200 2750
+Connection ~ 6400 3600
+Connection ~ 6400 4400
+Connection ~ 6500 3800
+Connection ~ 6500 4200
+Connection ~ 6500 4600
+Connection ~ 6500 5000
+Connection ~ 7000 3600
+Connection ~ 7000 4000
+Connection ~ 7000 4400
+Connection ~ 7100 3800
+Connection ~ 7100 4200
+Connection ~ 7100 4600
+Connection ~ 7100 5000
+Connection ~ 7600 3600
+Connection ~ 7600 4000
+Connection ~ 7600 4400
+Connection ~ 7700 3800
+Connection ~ 7700 4200
+Connection ~ 7700 4600
+Connection ~ 7700 5000
+Connection ~ 8200 3600
+Connection ~ 8200 4000
+Connection ~ 8200 4400
+Connection ~ 8300 3800
+Connection ~ 8300 4200
+Connection ~ 8300 4600
+Connection ~ 8300 5000
+Connection ~ 8800 3600
+Connection ~ 8800 4000
+Connection ~ 8800 4400
+Connection ~ 9400 3600
+Connection ~ 9400 4000
+Connection ~ 9400 4400
+NoConn ~ 1800 9150
+NoConn ~ 11900 1800
+NoConn ~ 11900 1900
+NoConn ~ 11900 2000
+NoConn ~ 11900 2200
+NoConn ~ 11900 2300
+NoConn ~ 11900 2400
+NoConn ~ 11900 2500
+NoConn ~ 11900 2600
+NoConn ~ 11900 2700
+NoConn ~ 11900 2800
+NoConn ~ 11900 2900
+NoConn ~ 11900 3000
+NoConn ~ 11900 3300
+NoConn ~ 11900 3400
+NoConn ~ 11900 3500
+NoConn ~ 11900 3600
+NoConn ~ 11900 3700
+NoConn ~ 13000 2100
+NoConn ~ 13000 2200
+NoConn ~ 13000 2300
+NoConn ~ 13000 2400
+NoConn ~ 13000 2500
+NoConn ~ 13000 2600
+NoConn ~ 13000 2700
+NoConn ~ 13000 2800
+NoConn ~ 13000 2900
+NoConn ~ 13000 3000
+NoConn ~ 13000 3300
+NoConn ~ 13000 3400
+NoConn ~ 13000 3500
+NoConn ~ 13000 3600
+NoConn ~ 13000 3700
+Wire Wire Line
+	1800 7550 1550 7550
+Wire Wire Line
+	1800 8150 1800 8550
+Wire Wire Line
+	2300 3800 2050 3800
+Wire Wire Line
+	2300 4200 2050 4200
+Wire Wire Line
+	2300 4200 2900 4200
+Wire Wire Line
+	2300 4600 2050 4600
+Wire Wire Line
+	2300 5000 2050 5000
+Wire Wire Line
+	2300 5000 2900 5000
+Wire Wire Line
+	2400 7650 2500 7650
+Wire Wire Line
+	2400 8650 2500 8650
+Wire Wire Line
+	2500 7550 2650 7550
+Wire Wire Line
+	2500 7650 2500 7550
+Wire Wire Line
+	2500 8550 2650 8550
+Wire Wire Line
+	2500 8650 2500 8550
+Wire Wire Line
+	2550 8050 2400 8050
+Wire Wire Line
+	2550 8150 2550 8050
+Wire Wire Line
+	2550 9050 2400 9050
+Wire Wire Line
+	2550 9150 2550 9050
+Wire Wire Line
+	2650 8150 2550 8150
+Wire Wire Line
+	2650 9150 2550 9150
+Wire Wire Line
+	2800 3600 2800 3350
+Wire Wire Line
+	2800 4000 2800 3600
+Wire Wire Line
+	2800 4400 2800 4000
+Wire Wire Line
+	2800 4800 2800 4400
+Wire Wire Line
+	2900 3800 2300 3800
+Wire Wire Line
+	2900 4200 3500 4200
+Wire Wire Line
+	2900 4600 2300 4600
+Wire Wire Line
+	2900 5000 3500 5000
+Wire Wire Line
+	3250 7650 3350 7650
+Wire Wire Line
+	3250 8650 3350 8650
+Wire Wire Line
+	3350 7550 3500 7550
+Wire Wire Line
+	3350 7650 3350 7550
+Wire Wire Line
+	3350 8550 3500 8550
+Wire Wire Line
+	3350 8650 3350 8550
+Wire Wire Line
+	3400 3600 3400 3350
+Wire Wire Line
+	3400 4000 3400 3600
+Wire Wire Line
+	3400 4400 3400 4000
+Wire Wire Line
+	3400 4800 3400 4400
+Wire Wire Line
+	3400 8050 3250 8050
+Wire Wire Line
+	3400 8150 3400 8050
+Wire Wire Line
+	3400 9050 3250 9050
+Wire Wire Line
+	3400 9150 3400 9050
+Wire Wire Line
+	3500 3800 2900 3800
+Wire Wire Line
+	3500 4200 4100 4200
+Wire Wire Line
+	3500 4600 2900 4600
+Wire Wire Line
+	3500 5000 4100 5000
+Wire Wire Line
+	3500 8150 3400 8150
+Wire Wire Line
+	3500 9150 3400 9150
+Wire Wire Line
+	4000 3600 4000 3350
+Wire Wire Line
+	4000 4000 4000 3600
+Wire Wire Line
+	4000 4400 4000 4000
+Wire Wire Line
+	4000 4800 4000 4400
+Wire Wire Line
+	4100 3800 3500 3800
+Wire Wire Line
+	4100 4200 4700 4200
+Wire Wire Line
+	4100 4600 3500 4600
+Wire Wire Line
+	4100 5000 4700 5000
+Wire Wire Line
+	4100 7650 4200 7650
+Wire Wire Line
+	4100 8650 4200 8650
+Wire Wire Line
+	4200 7550 4350 7550
+Wire Wire Line
+	4200 7650 4200 7550
+Wire Wire Line
+	4200 8550 4350 8550
+Wire Wire Line
+	4200 8650 4200 8550
+Wire Wire Line
+	4250 8050 4100 8050
+Wire Wire Line
+	4250 8150 4250 8050
+Wire Wire Line
+	4250 9050 4100 9050
+Wire Wire Line
+	4250 9150 4250 9050
+Wire Wire Line
+	4350 8150 4250 8150
+Wire Wire Line
+	4350 9150 4250 9150
+Wire Wire Line
+	4600 3600 4600 3350
+Wire Wire Line
+	4600 4000 4600 3600
+Wire Wire Line
+	4600 4400 4600 4000
+Wire Wire Line
+	4600 4800 4600 4400
+Wire Wire Line
+	4700 3800 4100 3800
+Wire Wire Line
+	4700 3800 5400 3800
+Wire Wire Line
+	4700 4200 6500 4200
+Wire Wire Line
+	4700 4600 4100 4600
+Wire Wire Line
+	4700 5000 5300 5000
+Wire Wire Line
+	4950 7650 5050 7650
+Wire Wire Line
+	4950 8650 5050 8650
+Wire Wire Line
+	5050 7550 5200 7550
+Wire Wire Line
+	5050 7650 5050 7550
+Wire Wire Line
+	5050 8550 5200 8550
+Wire Wire Line
+	5050 8650 5050 8550
+Wire Wire Line
+	5100 8050 4950 8050
+Wire Wire Line
+	5100 8150 5100 8050
+Wire Wire Line
+	5100 9050 4950 9050
+Wire Wire Line
+	5100 9150 5100 9050
+Wire Wire Line
+	5200 3600 5200 3350
+Wire Wire Line
+	5200 4000 5200 3600
+Wire Wire Line
+	5200 4400 5200 4000
+Wire Wire Line
+	5200 4800 5200 4400
+Wire Wire Line
+	5200 8150 5100 8150
+Wire Wire Line
+	5200 9150 5100 9150
+Wire Wire Line
+	5300 4600 4700 4600
+Wire Wire Line
+	5300 5000 5900 5000
+Wire Wire Line
+	5400 2750 5150 2750
+Wire Wire Line
+	5400 2750 5400 2050
+Wire Wire Line
+	5400 3350 5400 3800
+Wire Wire Line
+	5400 3800 6000 3800
+Wire Wire Line
+	5500 3350 5600 3350
+Wire Wire Line
+	5500 3600 5500 3350
+Wire Wire Line
+	5600 2350 5150 2350
+Wire Wire Line
+	5600 2750 5600 2350
+Wire Wire Line
+	5800 3350 5800 3600
+Wire Wire Line
+	5800 3600 5800 4400
+Wire Wire Line
+	5800 4800 5800 4400
+Wire Wire Line
+	5800 7650 5900 7650
+Wire Wire Line
+	5800 8650 5900 8650
+Wire Wire Line
+	5900 4600 5300 4600
+Wire Wire Line
+	5900 5000 6500 5000
+Wire Wire Line
+	5900 7550 6050 7550
+Wire Wire Line
+	5900 7650 5900 7550
+Wire Wire Line
+	5900 8550 6050 8550
+Wire Wire Line
+	5900 8650 5900 8550
+Wire Wire Line
+	5950 8050 5800 8050
+Wire Wire Line
+	5950 8150 5950 8050
+Wire Wire Line
+	5950 9050 5800 9050
+Wire Wire Line
+	5950 9150 5950 9050
+Wire Wire Line
+	6000 2750 6000 2350
+Wire Wire Line
+	6000 3350 6000 3800
+Wire Wire Line
+	6000 3800 6500 3800
+Wire Wire Line
+	6050 8150 5950 8150
+Wire Wire Line
+	6050 9150 5950 9150
+Wire Wire Line
+	6100 3350 6200 3350
+Wire Wire Line
+	6100 3600 6100 3350
+Wire Wire Line
+	6200 2750 6200 2050
+Wire Wire Line
+	6200 2750 6450 2750
+Wire Wire Line
+	6400 3350 6400 3600
+Wire Wire Line
+	6400 3600 6400 4400
+Wire Wire Line
+	6400 4800 6400 4400
+Wire Wire Line
+	6450 2350 6000 2350
+Wire Wire Line
+	6500 4200 7100 4200
+Wire Wire Line
+	6500 4600 5900 4600
+Wire Wire Line
+	6500 5000 7100 5000
+Wire Wire Line
+	6650 7650 6750 7650
+Wire Wire Line
+	6650 8650 6750 8650
+Wire Wire Line
+	6650 9050 6800 9050
+Wire Wire Line
+	6750 7550 6900 7550
+Wire Wire Line
+	6750 7650 6750 7550
+Wire Wire Line
+	6750 8550 6900 8550
+Wire Wire Line
+	6750 8650 6750 8550
+Wire Wire Line
+	6800 8050 6650 8050
+Wire Wire Line
+	6800 8150 6800 8050
+Wire Wire Line
+	6800 9150 6800 9050
+Wire Wire Line
+	6900 8150 6800 8150
+Wire Wire Line
+	6900 9150 6800 9150
+Wire Wire Line
+	7000 3600 7000 3350
+Wire Wire Line
+	7000 4000 7000 3600
+Wire Wire Line
+	7000 4400 7000 4000
+Wire Wire Line
+	7000 4800 7000 4400
+Wire Wire Line
+	7100 3800 6500 3800
+Wire Wire Line
+	7100 4200 7700 4200
+Wire Wire Line
+	7100 4600 6500 4600
+Wire Wire Line
+	7100 5000 7700 5000
+Wire Wire Line
+	7500 7650 7600 7650
+Wire Wire Line
+	7500 8650 7600 8650
+Wire Wire Line
+	7600 3600 7600 3350
+Wire Wire Line
+	7600 4000 7600 3600
+Wire Wire Line
+	7600 4400 7600 4000
+Wire Wire Line
+	7600 4800 7600 4400
+Wire Wire Line
+	7600 7550 7750 7550
+Wire Wire Line
+	7600 7650 7600 7550
+Wire Wire Line
+	7600 8550 7750 8550
+Wire Wire Line
+	7600 8650 7600 8550
+Wire Wire Line
+	7650 8050 7500 8050
+Wire Wire Line
+	7650 8150 7650 8050
+Wire Wire Line
+	7650 9050 7500 9050
+Wire Wire Line
+	7650 9150 7650 9050
+Wire Wire Line
+	7700 3800 7100 3800
+Wire Wire Line
+	7700 4200 8300 4200
+Wire Wire Line
+	7700 4600 7100 4600
+Wire Wire Line
+	7700 5000 8300 5000
+Wire Wire Line
+	7750 8150 7650 8150
+Wire Wire Line
+	7750 9150 7650 9150
+Wire Wire Line
+	8200 3600 8200 3350
+Wire Wire Line
+	8200 4000 8200 3600
+Wire Wire Line
+	8200 4400 8200 4000
+Wire Wire Line
+	8200 4800 8200 4400
+Wire Wire Line
+	8300 3800 7700 3800
+Wire Wire Line
+	8300 4200 8900 4200
+Wire Wire Line
+	8300 4600 7700 4600
+Wire Wire Line
+	8300 5000 8900 5000
+Wire Wire Line
+	8350 7650 8450 7650
+Wire Wire Line
+	8350 8650 8450 8650
+Wire Wire Line
+	8450 7550 8600 7550
+Wire Wire Line
+	8450 7650 8450 7550
+Wire Wire Line
+	8450 8550 8600 8550
+Wire Wire Line
+	8450 8650 8450 8550
+Wire Wire Line
+	8500 8050 8350 8050
+Wire Wire Line
+	8500 8150 8500 8050
+Wire Wire Line
+	8500 9050 8350 9050
+Wire Wire Line
+	8500 9150 8500 9050
+Wire Wire Line
+	8600 8150 8500 8150
+Wire Wire Line
+	8600 9150 8500 9150
+Wire Wire Line
+	8800 3600 8800 3350
+Wire Wire Line
+	8800 4000 8800 3600
+Wire Wire Line
+	8800 4400 8800 4000
+Wire Wire Line
+	8800 4800 8800 4400
+Wire Wire Line
+	8900 3800 8300 3800
+Wire Wire Line
+	8900 4600 8300 4600
+Wire Wire Line
+	9200 7650 9300 7650
+Wire Wire Line
+	9200 8650 9300 8650
+Wire Wire Line
+	9300 7550 9450 7550
+Wire Wire Line
+	9300 7650 9300 7550
+Wire Wire Line
+	9300 8550 9450 8550
+Wire Wire Line
+	9300 8650 9300 8550
+Wire Wire Line
+	9350 8050 9200 8050
+Wire Wire Line
+	9350 8150 9350 8050
+Wire Wire Line
+	9350 9050 9200 9050
+Wire Wire Line
+	9350 9150 9350 9050
+Wire Wire Line
+	9400 3600 9400 3350
+Wire Wire Line
+	9400 4000 9400 3600
+Wire Wire Line
+	9400 4400 9400 4000
+Wire Wire Line
+	9400 4800 9400 4400
+Wire Wire Line
+	9450 8150 9350 8150
+Wire Wire Line
+	9450 9150 9350 9150
+Wire Wire Line
+	10050 7650 10150 7650
+Wire Wire Line
+	10050 8650 10150 8650
+Wire Wire Line
+	10150 7550 10300 7550
+Wire Wire Line
+	10150 7650 10150 7550
+Wire Wire Line
+	10150 8550 10300 8550
+Wire Wire Line
+	10150 8650 10150 8550
+Wire Wire Line
+	10200 8050 10050 8050
+Wire Wire Line
+	10200 8150 10200 8050
+Wire Wire Line
+	10200 9050 10050 9050
+Wire Wire Line
+	10200 9150 10200 9050
+Wire Wire Line
+	10300 8150 10200 8150
+Wire Wire Line
+	10300 9150 10200 9150
+Wire Wire Line
+	10900 7650 10900 8050
+Wire Wire Line
+	10900 8650 10900 9050
+Wire Wire Line
+	11900 2100 11700 2100
+Wire Wire Line
+	11900 3100 11400 3100
+Wire Wire Line
+	11900 3200 11400 3200
+Wire Wire Line
+	13000 3100 13450 3100
+Wire Wire Line
+	13000 3200 13450 3200
+Wire Wire Line
+	13200 1800 13000 1800
+Wire Wire Line
+	13200 1900 13000 1900
+Wire Wire Line
+	13200 2000 13000 2000
+Text Label 1550 7550 0    50   ~ 0
+D_In
+Text Label 2050 3800 0    50   ~ 0
+row0
+Text Label 2050 4200 0    50   ~ 0
+row1
+Text Label 2050 4600 0    50   ~ 0
+row2
+Text Label 2050 5000 0    50   ~ 0
+row3
+Text Label 2800 3350 1    50   ~ 0
+col0
+Text Label 3400 3350 1    50   ~ 0
+col1
+Text Label 4000 3350 1    50   ~ 0
+col2
+Text Label 4600 3350 1    50   ~ 0
+col3
+Text Label 5200 3350 1    50   ~ 0
+col4
+Text Label 5400 2750 1    50   ~ 0
+rot1padb
+Text Label 5600 2350 3    50   ~ 0
+rot1pada
+Text Label 5800 3350 1    50   ~ 0
+col5
+Text Label 6000 2750 1    50   ~ 0
+rot2padb
+Text Label 6200 2750 1    50   ~ 0
+rot2pada
+Text Label 6400 3350 1    50   ~ 0
+col6
+Text Label 7000 3350 1    50   ~ 0
+col7
+Text Label 7600 3350 1    50   ~ 0
+col8
+Text Label 8200 3350 1    50   ~ 0
+col9
+Text Label 8800 3350 1    50   ~ 0
+col10
+Text Label 9400 3350 1    50   ~ 0
+col11
+Text Label 11400 3100 0    50   ~ 0
+rot2pada
+Text Label 11400 3200 0    50   ~ 0
+rot2padb
+Text Label 11700 2100 0    50   ~ 0
+D_In
+Text Label 13450 3100 2    50   ~ 0
+rot1padb
+Text Label 13450 3200 2    50   ~ 0
+rot1pada
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR052
+U 1 1 60BC0377
+P 1800 7650
+F 0 "#PWR052" H 1800 7500 50  0001 C CNN
+F 1 "+3V3" H 1815 7823 50  0000 C CNN
+F 2 "" H 1800 7650 50  0001 C CNN
+F 3 "" H 1800 7650 50  0001 C CNN
+	1    1800 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR072
+U 1 1 60C5A507
+P 1800 8650
+F 0 "#PWR072" H 1800 8500 50  0001 C CNN
+F 1 "+3V3" H 1815 8823 50  0000 C CNN
+F 2 "" H 1800 8650 50  0001 C CNN
+F 3 "" H 1800 8650 50  0001 C CNN
+	1    1800 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR062
+U 1 1 60C6609E
+P 2400 8150
+F 0 "#PWR062" H 2400 8000 50  0001 C CNN
+F 1 "+3V3" H 2415 8323 50  0000 C CNN
+F 2 "" H 2400 8150 50  0001 C CNN
+F 3 "" H 2400 8150 50  0001 C CNN
+	1    2400 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR081
+U 1 1 60C4E970
+P 2400 9150
+F 0 "#PWR081" H 2400 9000 50  0001 C CNN
+F 1 "+3V3" H 2415 9323 50  0000 C CNN
+F 2 "" H 2400 9150 50  0001 C CNN
+F 3 "" H 2400 9150 50  0001 C CNN
+	1    2400 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR053
+U 1 1 60BB45C4
+P 2650 7650
+F 0 "#PWR053" H 2650 7500 50  0001 C CNN
+F 1 "+3V3" H 2665 7823 50  0000 C CNN
+F 2 "" H 2650 7650 50  0001 C CNN
+F 3 "" H 2650 7650 50  0001 C CNN
+	1    2650 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR073
+U 1 1 60C89363
+P 2650 8650
+F 0 "#PWR073" H 2650 8500 50  0001 C CNN
+F 1 "+3V3" H 2665 8823 50  0000 C CNN
+F 2 "" H 2650 8650 50  0001 C CNN
+F 3 "" H 2650 8650 50  0001 C CNN
+	1    2650 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR063
+U 1 1 60C71C35
+P 3250 8150
+F 0 "#PWR063" H 3250 8000 50  0001 C CNN
+F 1 "+3V3" H 3265 8323 50  0000 C CNN
+F 2 "" H 3250 8150 50  0001 C CNN
+F 3 "" H 3250 8150 50  0001 C CNN
+	1    3250 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR082
+U 1 1 60C7D7CC
+P 3250 9150
+F 0 "#PWR082" H 3250 9000 50  0001 C CNN
+F 1 "+3V3" H 3265 9323 50  0000 C CNN
+F 2 "" H 3250 9150 50  0001 C CNN
+F 3 "" H 3250 9150 50  0001 C CNN
+	1    3250 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0106
+U 1 1 60D8E3BF
+P 3500 7650
+F 0 "#PWR0106" H 3500 7500 50  0001 C CNN
+F 1 "+3V3" H 3515 7823 50  0000 C CNN
+F 2 "" H 3500 7650 50  0001 C CNN
+F 3 "" H 3500 7650 50  0001 C CNN
+	1    3500 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR074
+U 1 1 60CB85F7
+P 3500 8650
+F 0 "#PWR074" H 3500 8500 50  0001 C CNN
+F 1 "+3V3" H 3515 8823 50  0000 C CNN
+F 2 "" H 3500 8650 50  0001 C CNN
+F 3 "" H 3500 8650 50  0001 C CNN
+	1    3500 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR064
+U 1 1 60CC429C
+P 4100 8150
+F 0 "#PWR064" H 4100 8000 50  0001 C CNN
+F 1 "+3V3" H 4115 8323 50  0000 C CNN
+F 2 "" H 4100 8150 50  0001 C CNN
+F 3 "" H 4100 8150 50  0001 C CNN
+	1    4100 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR083
+U 1 1 60C95332
+P 4100 9150
+F 0 "#PWR083" H 4100 9000 50  0001 C CNN
+F 1 "+3V3" H 4115 9323 50  0000 C CNN
+F 2 "" H 4100 9150 50  0001 C CNN
+F 3 "" H 4100 9150 50  0001 C CNN
+	1    4100 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR054
+U 1 1 60BA85F5
+P 4350 7650
+F 0 "#PWR054" H 4350 7500 50  0001 C CNN
+F 1 "+3V3" H 4365 7823 50  0000 C CNN
+F 2 "" H 4350 7650 50  0001 C CNN
+F 3 "" H 4350 7650 50  0001 C CNN
+	1    4350 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR075
+U 1 1 60CACA60
+P 4350 8650
+F 0 "#PWR075" H 4350 8500 50  0001 C CNN
+F 1 "+3V3" H 4365 8823 50  0000 C CNN
+F 2 "" H 4350 8650 50  0001 C CNN
+F 3 "" H 4350 8650 50  0001 C CNN
+	1    4350 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR065
+U 1 1 60CCFE33
+P 4950 8150
+F 0 "#PWR065" H 4950 8000 50  0001 C CNN
+F 1 "+3V3" H 4965 8323 50  0000 C CNN
+F 2 "" H 4950 8150 50  0001 C CNN
+F 3 "" H 4950 8150 50  0001 C CNN
+	1    4950 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR084
+U 1 1 60CA0EC9
+P 4950 9150
+F 0 "#PWR084" H 4950 9000 50  0001 C CNN
+F 1 "+3V3" H 4965 9323 50  0000 C CNN
+F 2 "" H 4950 9150 50  0001 C CNN
+F 3 "" H 4950 9150 50  0001 C CNN
+	1    4950 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR055
+U 1 1 60B90EC7
+P 5200 7650
+F 0 "#PWR055" H 5200 7500 50  0001 C CNN
+F 1 "+3V3" H 5215 7823 50  0000 C CNN
+F 2 "" H 5200 7650 50  0001 C CNN
+F 3 "" H 5200 7650 50  0001 C CNN
+	1    5200 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0108
+U 1 1 60D91025
+P 5200 8650
+F 0 "#PWR0108" H 5200 8500 50  0001 C CNN
+F 1 "+3V3" H 5215 8823 50  0000 C CNN
+F 2 "" H 5200 8650 50  0001 C CNN
+F 3 "" H 5200 8650 50  0001 C CNN
+	1    5200 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0115
+U 1 1 63190D08
+P 5400 1750
+F 0 "#PWR0115" H 5400 1600 50  0001 C CNN
+F 1 "+3V3" V 5415 1878 50  0000 L CNN
+F 2 "" H 5400 1750 50  0001 C CNN
+F 3 "" H 5400 1750 50  0001 C CNN
+	1    5400 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0114
+U 1 1 6318AB87
+P 5600 2050
+F 0 "#PWR0114" H 5600 1900 50  0001 C CNN
+F 1 "+3V3" V 5615 2178 50  0000 L CNN
+F 2 "" H 5600 2050 50  0001 C CNN
+F 3 "" H 5600 2050 50  0001 C CNN
+	1    5600 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0107
+U 1 1 60D90368
+P 5800 8150
+F 0 "#PWR0107" H 5800 8000 50  0001 C CNN
+F 1 "+3V3" H 5815 8323 50  0000 C CNN
+F 2 "" H 5800 8150 50  0001 C CNN
+F 3 "" H 5800 8150 50  0001 C CNN
+	1    5800 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0101
+U 1 1 60D2FAA2
+P 5800 9150
+F 0 "#PWR0101" H 5800 9000 50  0001 C CNN
+F 1 "+3V3" H 5815 9323 50  0000 C CNN
+F 2 "" H 5800 9150 50  0001 C CNN
+F 3 "" H 5800 9150 50  0001 C CNN
+	1    5800 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0117
+U 1 1 6321DB14
+P 6000 2050
+F 0 "#PWR0117" H 6000 1900 50  0001 C CNN
+F 1 "+3V3" V 6015 2178 50  0000 L CNN
+F 2 "" H 6000 2050 50  0001 C CNN
+F 3 "" H 6000 2050 50  0001 C CNN
+	1    6000 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR056
+U 1 1 60B9CA5E
+P 6050 7650
+F 0 "#PWR056" H 6050 7500 50  0001 C CNN
+F 1 "+3V3" H 6065 7823 50  0000 C CNN
+F 2 "" H 6050 7650 50  0001 C CNN
+F 3 "" H 6050 7650 50  0001 C CNN
+	1    6050 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR076
+U 1 1 60CF328D
+P 6050 8650
+F 0 "#PWR076" H 6050 8500 50  0001 C CNN
+F 1 "+3V3" H 6065 8823 50  0000 C CNN
+F 2 "" H 6050 8650 50  0001 C CNN
+F 3 "" H 6050 8650 50  0001 C CNN
+	1    6050 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0118
+U 1 1 6321E868
+P 6200 1750
+F 0 "#PWR0118" H 6200 1600 50  0001 C CNN
+F 1 "+3V3" V 6215 1878 50  0000 L CNN
+F 2 "" H 6200 1750 50  0001 C CNN
+F 3 "" H 6200 1750 50  0001 C CNN
+	1    6200 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR066
+U 1 1 60CDBB5F
+P 6650 8150
+F 0 "#PWR066" H 6650 8000 50  0001 C CNN
+F 1 "+3V3" H 6665 8323 50  0000 C CNN
+F 2 "" H 6650 8150 50  0001 C CNN
+F 3 "" H 6650 8150 50  0001 C CNN
+	1    6650 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR085
+U 1 1 60CFEE24
+P 6650 9150
+F 0 "#PWR085" H 6650 9000 50  0001 C CNN
+F 1 "+3V3" H 6665 9323 50  0000 C CNN
+F 2 "" H 6650 9150 50  0001 C CNN
+F 3 "" H 6650 9150 50  0001 C CNN
+	1    6650 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR057
+U 1 1 60B85114
+P 6900 7650
+F 0 "#PWR057" H 6900 7500 50  0001 C CNN
+F 1 "+3V3" H 6915 7823 50  0000 C CNN
+F 2 "" H 6900 7650 50  0001 C CNN
+F 3 "" H 6900 7650 50  0001 C CNN
+	1    6900 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR077
+U 1 1 60D16552
+P 6900 8650
+F 0 "#PWR077" H 6900 8500 50  0001 C CNN
+F 1 "+3V3" H 6915 8823 50  0000 C CNN
+F 2 "" H 6900 8650 50  0001 C CNN
+F 3 "" H 6900 8650 50  0001 C CNN
+	1    6900 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR067
+U 1 1 60CE76F6
+P 7500 8150
+F 0 "#PWR067" H 7500 8000 50  0001 C CNN
+F 1 "+3V3" H 7515 8323 50  0000 C CNN
+F 2 "" H 7500 8150 50  0001 C CNN
+F 3 "" H 7500 8150 50  0001 C CNN
+	1    7500 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR086
+U 1 1 60D0A9BB
+P 7500 9150
+F 0 "#PWR086" H 7500 9000 50  0001 C CNN
+F 1 "+3V3" H 7515 9323 50  0000 C CNN
+F 2 "" H 7500 9150 50  0001 C CNN
+F 3 "" H 7500 9150 50  0001 C CNN
+	1    7500 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR058
+U 1 1 60B7957D
+P 7750 7650
+F 0 "#PWR058" H 7750 7500 50  0001 C CNN
+F 1 "+3V3" H 7765 7823 50  0000 C CNN
+F 2 "" H 7750 7650 50  0001 C CNN
+F 3 "" H 7750 7650 50  0001 C CNN
+	1    7750 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0102
+U 1 1 60D3C7D5
+P 7750 8650
+F 0 "#PWR0102" H 7750 8500 50  0001 C CNN
+F 1 "+3V3" H 7765 8823 50  0000 C CNN
+F 2 "" H 7750 8650 50  0001 C CNN
+F 3 "" H 7750 8650 50  0001 C CNN
+	1    7750 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR068
+U 1 1 60BF022C
+P 8350 8150
+F 0 "#PWR068" H 8350 8000 50  0001 C CNN
+F 1 "+3V3" H 8365 8323 50  0000 C CNN
+F 2 "" H 8350 8150 50  0001 C CNN
+F 3 "" H 8350 8150 50  0001 C CNN
+	1    8350 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR087
+U 1 1 60C4234D
+P 8350 9150
+F 0 "#PWR087" H 8350 9000 50  0001 C CNN
+F 1 "+3V3" H 8365 9323 50  0000 C CNN
+F 2 "" H 8350 9150 50  0001 C CNN
+F 3 "" H 8350 9150 50  0001 C CNN
+	1    8350 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR059
+U 1 1 60B6D9E6
+P 8600 7650
+F 0 "#PWR059" H 8600 7500 50  0001 C CNN
+F 1 "+3V3" H 8615 7823 50  0000 C CNN
+F 2 "" H 8600 7650 50  0001 C CNN
+F 3 "" H 8600 7650 50  0001 C CNN
+	1    8600 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR078
+U 1 1 60BFBDC3
+P 8600 8650
+F 0 "#PWR078" H 8600 8500 50  0001 C CNN
+F 1 "+3V3" H 8615 8823 50  0000 C CNN
+F 2 "" H 8600 8650 50  0001 C CNN
+F 3 "" H 8600 8650 50  0001 C CNN
+	1    8600 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR069
+U 1 1 60BE4695
+P 9200 8150
+F 0 "#PWR069" H 9200 8000 50  0001 C CNN
+F 1 "+3V3" H 9215 8323 50  0000 C CNN
+F 2 "" H 9200 8150 50  0001 C CNN
+F 3 "" H 9200 8150 50  0001 C CNN
+	1    9200 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR088
+U 1 1 60C367B6
+P 9200 9150
+F 0 "#PWR088" H 9200 9000 50  0001 C CNN
+F 1 "+3V3" H 9215 9323 50  0000 C CNN
+F 2 "" H 9200 9150 50  0001 C CNN
+F 3 "" H 9200 9150 50  0001 C CNN
+	1    9200 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR060
+U 1 1 60B61CBA
+P 9450 7650
+F 0 "#PWR060" H 9450 7500 50  0001 C CNN
+F 1 "+3V3" H 9465 7823 50  0000 C CNN
+F 2 "" H 9450 7650 50  0001 C CNN
+F 3 "" H 9450 7650 50  0001 C CNN
+	1    9450 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR079
+U 1 1 60C0795A
+P 9450 8650
+F 0 "#PWR079" H 9450 8500 50  0001 C CNN
+F 1 "+3V3" H 9465 8823 50  0000 C CNN
+F 2 "" H 9450 8650 50  0001 C CNN
+F 3 "" H 9450 8650 50  0001 C CNN
+	1    9450 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR070
+U 1 1 60BD8AFE
+P 10050 8150
+F 0 "#PWR070" H 10050 8000 50  0001 C CNN
+F 1 "+3V3" H 10065 8323 50  0000 C CNN
+F 2 "" H 10050 8150 50  0001 C CNN
+F 3 "" H 10050 8150 50  0001 C CNN
+	1    10050 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR089
+U 1 1 60C2AC1F
+P 10050 9150
+F 0 "#PWR089" H 10050 9000 50  0001 C CNN
+F 1 "+3V3" H 10065 9323 50  0000 C CNN
+F 2 "" H 10050 9150 50  0001 C CNN
+F 3 "" H 10050 9150 50  0001 C CNN
+	1    10050 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR061
+U 1 1 60B46ABD
+P 10300 7650
+F 0 "#PWR061" H 10300 7500 50  0001 C CNN
+F 1 "+3V3" H 10315 7823 50  0000 C CNN
+F 2 "" H 10300 7650 50  0001 C CNN
+F 3 "" H 10300 7650 50  0001 C CNN
+	1    10300 7650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR080
+U 1 1 60C134F1
+P 10300 8650
+F 0 "#PWR080" H 10300 8500 50  0001 C CNN
+F 1 "+3V3" H 10315 8823 50  0000 C CNN
+F 2 "" H 10300 8650 50  0001 C CNN
+F 3 "" H 10300 8650 50  0001 C CNN
+	1    10300 8650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR071
+U 1 1 60BCCD4B
+P 10900 8150
+F 0 "#PWR071" H 10900 8000 50  0001 C CNN
+F 1 "+3V3" H 10915 8323 50  0000 C CNN
+F 2 "" H 10900 8150 50  0001 C CNN
+F 3 "" H 10900 8150 50  0001 C CNN
+	1    10900 8150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR090
+U 1 1 60C1F088
+P 10900 9150
+F 0 "#PWR090" H 10900 9000 50  0001 C CNN
+F 1 "+3V3" H 10915 9323 50  0000 C CNN
+F 2 "" H 10900 9150 50  0001 C CNN
+F 3 "" H 10900 9150 50  0001 C CNN
+	1    10900 9150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+5V-power #PWR045
+U 1 1 60AFD87B
+P 13200 1800
+F 0 "#PWR045" V 13169 1928 50  0001 L CNN
+F 1 "+5V" V 13215 1928 50  0000 L CNN
+F 2 "" H 13200 1800 50  0001 C CNN
+F 3 "" H 13200 1800 50  0001 C CNN
+	1    13200 1800
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR047
+U 1 1 60AFBB94
+P 13200 2000
+F 0 "#PWR047" H 13200 1850 50  0001 C CNN
+F 1 "+3V3" V 13215 2128 50  0000 L CNN
+F 2 "" H 13200 2000 50  0001 C CNN
+F 3 "" H 13200 2000 50  0001 C CNN
+	1    13200 2000
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+5V-power #PWR0104
+U 1 1 60D79CB5
+P 14250 5350
+F 0 "#PWR0104" H 14250 5200 50  0001 C CNN
+F 1 "+5V" H 14265 5523 50  0000 C CNN
+F 2 "" H 14250 5350 50  0001 C CNN
+F 3 "" H 14250 5350 50  0001 C CNN
+	1    14250 5350
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:+3V3-power #PWR0103
+U 1 1 60D792D7
+P 14850 5350
+F 0 "#PWR0103" H 14850 5200 50  0001 C CNN
+F 1 "+3V3" H 14865 5523 50  0000 C CNN
+F 2 "" H 14850 5350 50  0001 C CNN
+F 3 "" H 14850 5350 50  0001 C CNN
+	1    14850 5350
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:PWR_FLAG-power #FLG0103
+U 1 1 60D79AF7
+P 14250 5350
+F 0 "#FLG0103" H 14250 5425 50  0001 C CNN
+F 1 "PWR_FLAG" H 14250 5524 50  0000 C CNN
+F 2 "" H 14250 5350 50  0001 C CNN
+F 3 "~" H 14250 5350 50  0001 C CNN
+	1    14250 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:PWR_FLAG-power #FLG0102
+U 1 1 60D7813D
+P 14850 5350
+F 0 "#FLG0102" H 14850 5425 50  0001 C CNN
+F 1 "PWR_FLAG" H 14850 5524 50  0000 C CNN
+F 2 "" H 14850 5350 50  0001 C CNN
+F 3 "~" H 14850 5350 50  0001 C CNN
+	1    14850 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:PWR_FLAG-power #FLG0101
+U 1 1 60D77824
+P 15400 5350
+F 0 "#FLG0101" H 15400 5425 50  0001 C CNN
+F 1 "PWR_FLAG" H 15400 5524 50  0000 C CNN
+F 2 "" H 15400 5350 50  0001 C CNN
+F 3 "~" H 15400 5350 50  0001 C CNN
+	1    15400 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR012
+U 1 1 60AB9148
+P 1800 8050
+F 0 "#PWR012" H 1800 7800 50  0001 C CNN
+F 1 "GND" H 1805 7877 50  0000 C CNN
+F 2 "" H 1800 8050 50  0001 C CNN
+F 3 "" H 1800 8050 50  0001 C CNN
+	1    1800 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR034
+U 1 1 60AD174F
+P 1800 9050
+F 0 "#PWR034" H 1800 8800 50  0001 C CNN
+F 1 "GND" H 1805 8877 50  0000 C CNN
+F 2 "" H 1800 9050 50  0001 C CNN
+F 3 "" H 1800 9050 50  0001 C CNN
+	1    1800 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR01
+U 1 1 60A6657E
+P 2400 7550
+F 0 "#PWR01" H 2400 7300 50  0001 C CNN
+F 1 "GND" H 2405 7377 50  0000 C CNN
+F 2 "" H 2400 7550 50  0001 C CNN
+F 3 "" H 2400 7550 50  0001 C CNN
+	1    2400 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR023
+U 1 1 60AC5624
+P 2400 8550
+F 0 "#PWR023" H 2400 8300 50  0001 C CNN
+F 1 "GND" H 2405 8377 50  0000 C CNN
+F 2 "" H 2400 8550 50  0001 C CNN
+F 3 "" H 2400 8550 50  0001 C CNN
+	1    2400 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR013
+U 1 1 60AB914E
+P 2650 8050
+F 0 "#PWR013" H 2650 7800 50  0001 C CNN
+F 1 "GND" H 2655 7877 50  0000 C CNN
+F 2 "" H 2650 8050 50  0001 C CNN
+F 3 "" H 2650 8050 50  0001 C CNN
+	1    2650 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR035
+U 1 1 60AD1755
+P 2650 9050
+F 0 "#PWR035" H 2650 8800 50  0001 C CNN
+F 1 "GND" H 2655 8877 50  0000 C CNN
+F 2 "" H 2650 9050 50  0001 C CNN
+F 3 "" H 2650 9050 50  0001 C CNN
+	1    2650 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR02
+U 1 1 60A6737A
+P 3250 7550
+F 0 "#PWR02" H 3250 7300 50  0001 C CNN
+F 1 "GND" H 3255 7377 50  0000 C CNN
+F 2 "" H 3250 7550 50  0001 C CNN
+F 3 "" H 3250 7550 50  0001 C CNN
+	1    3250 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR024
+U 1 1 60AC562A
+P 3250 8550
+F 0 "#PWR024" H 3250 8300 50  0001 C CNN
+F 1 "GND" H 3255 8377 50  0000 C CNN
+F 2 "" H 3250 8550 50  0001 C CNN
+F 3 "" H 3250 8550 50  0001 C CNN
+	1    3250 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR014
+U 1 1 60AB9154
+P 3500 8050
+F 0 "#PWR014" H 3500 7800 50  0001 C CNN
+F 1 "GND" H 3505 7877 50  0000 C CNN
+F 2 "" H 3500 8050 50  0001 C CNN
+F 3 "" H 3500 8050 50  0001 C CNN
+	1    3500 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR036
+U 1 1 60AD175B
+P 3500 9050
+F 0 "#PWR036" H 3500 8800 50  0001 C CNN
+F 1 "GND" H 3505 8877 50  0000 C CNN
+F 2 "" H 3500 9050 50  0001 C CNN
+F 3 "" H 3500 9050 50  0001 C CNN
+	1    3500 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR03
+U 1 1 60A676C6
+P 4100 7550
+F 0 "#PWR03" H 4100 7300 50  0001 C CNN
+F 1 "GND" H 4105 7377 50  0000 C CNN
+F 2 "" H 4100 7550 50  0001 C CNN
+F 3 "" H 4100 7550 50  0001 C CNN
+	1    4100 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR025
+U 1 1 60AC5630
+P 4100 8550
+F 0 "#PWR025" H 4100 8300 50  0001 C CNN
+F 1 "GND" H 4105 8377 50  0000 C CNN
+F 2 "" H 4100 8550 50  0001 C CNN
+F 3 "" H 4100 8550 50  0001 C CNN
+	1    4100 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR015
+U 1 1 60AB915A
+P 4350 8050
+F 0 "#PWR015" H 4350 7800 50  0001 C CNN
+F 1 "GND" H 4355 7877 50  0000 C CNN
+F 2 "" H 4350 8050 50  0001 C CNN
+F 3 "" H 4350 8050 50  0001 C CNN
+	1    4350 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR037
+U 1 1 60AD1761
+P 4350 9050
+F 0 "#PWR037" H 4350 8800 50  0001 C CNN
+F 1 "GND" H 4355 8877 50  0000 C CNN
+F 2 "" H 4350 9050 50  0001 C CNN
+F 3 "" H 4350 9050 50  0001 C CNN
+	1    4350 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR0112
+U 1 1 6303630D
+P 4850 2350
+F 0 "#PWR0112" H 4850 2100 50  0001 C CNN
+F 1 "GND" H 4855 2177 50  0000 C CNN
+F 2 "" H 4850 2350 50  0001 C CNN
+F 3 "" H 4850 2350 50  0001 C CNN
+	1    4850 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR0111
+U 1 1 63034BF1
+P 4850 2750
+F 0 "#PWR0111" H 4850 2500 50  0001 C CNN
+F 1 "GND" H 4855 2577 50  0000 C CNN
+F 2 "" H 4850 2750 50  0001 C CNN
+F 3 "" H 4850 2750 50  0001 C CNN
+	1    4850 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR04
+U 1 1 60A94BC5
+P 4950 7550
+F 0 "#PWR04" H 4950 7300 50  0001 C CNN
+F 1 "GND" H 4955 7377 50  0000 C CNN
+F 2 "" H 4950 7550 50  0001 C CNN
+F 3 "" H 4950 7550 50  0001 C CNN
+	1    4950 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR026
+U 1 1 60AC5636
+P 4950 8550
+F 0 "#PWR026" H 4950 8300 50  0001 C CNN
+F 1 "GND" H 4955 8377 50  0000 C CNN
+F 2 "" H 4950 8550 50  0001 C CNN
+F 3 "" H 4950 8550 50  0001 C CNN
+	1    4950 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR016
+U 1 1 60AB9160
+P 5200 8050
+F 0 "#PWR016" H 5200 7800 50  0001 C CNN
+F 1 "GND" H 5205 7877 50  0000 C CNN
+F 2 "" H 5200 8050 50  0001 C CNN
+F 3 "" H 5200 8050 50  0001 C CNN
+	1    5200 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR038
+U 1 1 60AD1767
+P 5200 9050
+F 0 "#PWR038" H 5200 8800 50  0001 C CNN
+F 1 "GND" H 5205 8877 50  0000 C CNN
+F 2 "" H 5200 9050 50  0001 C CNN
+F 3 "" H 5200 9050 50  0001 C CNN
+	1    5200 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR0109
+U 1 1 62FB95A8
+P 5500 2750
+F 0 "#PWR0109" H 5500 2500 50  0001 C CNN
+F 1 "GND" H 5505 2577 50  0000 C CNN
+F 2 "" H 5500 2750 50  0001 C CNN
+F 3 "" H 5500 2750 50  0001 C CNN
+	1    5500 2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR05
+U 1 1 60A95569
+P 5800 7550
+F 0 "#PWR05" H 5800 7300 50  0001 C CNN
+F 1 "GND" H 5805 7377 50  0000 C CNN
+F 2 "" H 5800 7550 50  0001 C CNN
+F 3 "" H 5800 7550 50  0001 C CNN
+	1    5800 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR027
+U 1 1 60AC563C
+P 5800 8550
+F 0 "#PWR027" H 5800 8300 50  0001 C CNN
+F 1 "GND" H 5805 8377 50  0000 C CNN
+F 2 "" H 5800 8550 50  0001 C CNN
+F 3 "" H 5800 8550 50  0001 C CNN
+	1    5800 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR017
+U 1 1 60AB9166
+P 6050 8050
+F 0 "#PWR017" H 6050 7800 50  0001 C CNN
+F 1 "GND" H 6055 7877 50  0000 C CNN
+F 2 "" H 6050 8050 50  0001 C CNN
+F 3 "" H 6050 8050 50  0001 C CNN
+	1    6050 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR039
+U 1 1 60AD176D
+P 6050 9050
+F 0 "#PWR039" H 6050 8800 50  0001 C CNN
+F 1 "GND" H 6055 8877 50  0000 C CNN
+F 2 "" H 6050 9050 50  0001 C CNN
+F 3 "" H 6050 9050 50  0001 C CNN
+	1    6050 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR0110
+U 1 1 62FC4FBC
+P 6100 2750
+F 0 "#PWR0110" H 6100 2500 50  0001 C CNN
+F 1 "GND" H 6105 2577 50  0000 C CNN
+F 2 "" H 6100 2750 50  0001 C CNN
+F 3 "" H 6100 2750 50  0001 C CNN
+	1    6100 2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR06
+U 1 1 60A9556F
+P 6650 7550
+F 0 "#PWR06" H 6650 7300 50  0001 C CNN
+F 1 "GND" H 6655 7377 50  0000 C CNN
+F 2 "" H 6650 7550 50  0001 C CNN
+F 3 "" H 6650 7550 50  0001 C CNN
+	1    6650 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR028
+U 1 1 60AC5642
+P 6650 8550
+F 0 "#PWR028" H 6650 8300 50  0001 C CNN
+F 1 "GND" H 6655 8377 50  0000 C CNN
+F 2 "" H 6650 8550 50  0001 C CNN
+F 3 "" H 6650 8550 50  0001 C CNN
+	1    6650 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR0116
+U 1 1 6321B96B
+P 6750 2350
+F 0 "#PWR0116" H 6750 2100 50  0001 C CNN
+F 1 "GND" H 6755 2177 50  0000 C CNN
+F 2 "" H 6750 2350 50  0001 C CNN
+F 3 "" H 6750 2350 50  0001 C CNN
+	1    6750 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR0113
+U 1 1 630882B3
+P 6750 2750
+F 0 "#PWR0113" H 6750 2500 50  0001 C CNN
+F 1 "GND" H 6755 2577 50  0000 C CNN
+F 2 "" H 6750 2750 50  0001 C CNN
+F 3 "" H 6750 2750 50  0001 C CNN
+	1    6750 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR022
+U 1 1 60AB916C
+P 6900 8050
+F 0 "#PWR022" H 6900 7800 50  0001 C CNN
+F 1 "GND" H 6905 7877 50  0000 C CNN
+F 2 "" H 6900 8050 50  0001 C CNN
+F 3 "" H 6900 8050 50  0001 C CNN
+	1    6900 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR044
+U 1 1 60AD1773
+P 6900 9050
+F 0 "#PWR044" H 6900 8800 50  0001 C CNN
+F 1 "GND" H 6905 8877 50  0000 C CNN
+F 2 "" H 6900 9050 50  0001 C CNN
+F 3 "" H 6900 9050 50  0001 C CNN
+	1    6900 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR011
+U 1 1 60A95575
+P 7500 7550
+F 0 "#PWR011" H 7500 7300 50  0001 C CNN
+F 1 "GND" H 7505 7377 50  0000 C CNN
+F 2 "" H 7500 7550 50  0001 C CNN
+F 3 "" H 7500 7550 50  0001 C CNN
+	1    7500 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR033
+U 1 1 60AC5648
+P 7500 8550
+F 0 "#PWR033" H 7500 8300 50  0001 C CNN
+F 1 "GND" H 7505 8377 50  0000 C CNN
+F 2 "" H 7500 8550 50  0001 C CNN
+F 3 "" H 7500 8550 50  0001 C CNN
+	1    7500 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR018
+U 1 1 60AB9172
+P 7750 8050
+F 0 "#PWR018" H 7750 7800 50  0001 C CNN
+F 1 "GND" H 7755 7877 50  0000 C CNN
+F 2 "" H 7750 8050 50  0001 C CNN
+F 3 "" H 7750 8050 50  0001 C CNN
+	1    7750 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR040
+U 1 1 60AD1779
+P 7750 9050
+F 0 "#PWR040" H 7750 8800 50  0001 C CNN
+F 1 "GND" H 7755 8877 50  0000 C CNN
+F 2 "" H 7750 9050 50  0001 C CNN
+F 3 "" H 7750 9050 50  0001 C CNN
+	1    7750 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR07
+U 1 1 60A9557B
+P 8350 7550
+F 0 "#PWR07" H 8350 7300 50  0001 C CNN
+F 1 "GND" H 8355 7377 50  0000 C CNN
+F 2 "" H 8350 7550 50  0001 C CNN
+F 3 "" H 8350 7550 50  0001 C CNN
+	1    8350 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR029
+U 1 1 60AC564E
+P 8350 8550
+F 0 "#PWR029" H 8350 8300 50  0001 C CNN
+F 1 "GND" H 8355 8377 50  0000 C CNN
+F 2 "" H 8350 8550 50  0001 C CNN
+F 3 "" H 8350 8550 50  0001 C CNN
+	1    8350 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR019
+U 1 1 60AB9178
+P 8600 8050
+F 0 "#PWR019" H 8600 7800 50  0001 C CNN
+F 1 "GND" H 8605 7877 50  0000 C CNN
+F 2 "" H 8600 8050 50  0001 C CNN
+F 3 "" H 8600 8050 50  0001 C CNN
+	1    8600 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR041
+U 1 1 60AD177F
+P 8600 9050
+F 0 "#PWR041" H 8600 8800 50  0001 C CNN
+F 1 "GND" H 8605 8877 50  0000 C CNN
+F 2 "" H 8600 9050 50  0001 C CNN
+F 3 "" H 8600 9050 50  0001 C CNN
+	1    8600 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR08
+U 1 1 60AA157A
+P 9200 7550
+F 0 "#PWR08" H 9200 7300 50  0001 C CNN
+F 1 "GND" H 9205 7377 50  0000 C CNN
+F 2 "" H 9200 7550 50  0001 C CNN
+F 3 "" H 9200 7550 50  0001 C CNN
+	1    9200 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR030
+U 1 1 60AC5654
+P 9200 8550
+F 0 "#PWR030" H 9200 8300 50  0001 C CNN
+F 1 "GND" H 9205 8377 50  0000 C CNN
+F 2 "" H 9200 8550 50  0001 C CNN
+F 3 "" H 9200 8550 50  0001 C CNN
+	1    9200 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR020
+U 1 1 60AB917E
+P 9450 8050
+F 0 "#PWR020" H 9450 7800 50  0001 C CNN
+F 1 "GND" H 9455 7877 50  0000 C CNN
+F 2 "" H 9450 8050 50  0001 C CNN
+F 3 "" H 9450 8050 50  0001 C CNN
+	1    9450 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR042
+U 1 1 60AD1785
+P 9450 9050
+F 0 "#PWR042" H 9450 8800 50  0001 C CNN
+F 1 "GND" H 9455 8877 50  0000 C CNN
+F 2 "" H 9450 9050 50  0001 C CNN
+F 3 "" H 9450 9050 50  0001 C CNN
+	1    9450 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR09
+U 1 1 60AA1580
+P 10050 7550
+F 0 "#PWR09" H 10050 7300 50  0001 C CNN
+F 1 "GND" H 10055 7377 50  0000 C CNN
+F 2 "" H 10050 7550 50  0001 C CNN
+F 3 "" H 10050 7550 50  0001 C CNN
+	1    10050 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR031
+U 1 1 60AC565A
+P 10050 8550
+F 0 "#PWR031" H 10050 8300 50  0001 C CNN
+F 1 "GND" H 10055 8377 50  0000 C CNN
+F 2 "" H 10050 8550 50  0001 C CNN
+F 3 "" H 10050 8550 50  0001 C CNN
+	1    10050 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR021
+U 1 1 60AB9184
+P 10300 8050
+F 0 "#PWR021" H 10300 7800 50  0001 C CNN
+F 1 "GND" H 10305 7877 50  0000 C CNN
+F 2 "" H 10300 8050 50  0001 C CNN
+F 3 "" H 10300 8050 50  0001 C CNN
+	1    10300 8050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR043
+U 1 1 60AD178B
+P 10300 9050
+F 0 "#PWR043" H 10300 8800 50  0001 C CNN
+F 1 "GND" H 10305 8877 50  0000 C CNN
+F 2 "" H 10300 9050 50  0001 C CNN
+F 3 "" H 10300 9050 50  0001 C CNN
+	1    10300 9050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR010
+U 1 1 60AA1586
+P 10900 7550
+F 0 "#PWR010" H 10900 7300 50  0001 C CNN
+F 1 "GND" H 10905 7377 50  0000 C CNN
+F 2 "" H 10900 7550 50  0001 C CNN
+F 3 "" H 10900 7550 50  0001 C CNN
+	1    10900 7550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR032
+U 1 1 60AC5660
+P 10900 8550
+F 0 "#PWR032" H 10900 8300 50  0001 C CNN
+F 1 "GND" H 10905 8377 50  0000 C CNN
+F 2 "" H 10900 8550 50  0001 C CNN
+F 3 "" H 10900 8550 50  0001 C CNN
+	1    10900 8550
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR046
+U 1 1 60AFB6AC
+P 13200 1900
+F 0 "#PWR046" H 13200 1650 50  0001 C CNN
+F 1 "GND" V 13205 1772 50  0000 R CNN
+F 2 "" H 13200 1900 50  0001 C CNN
+F 3 "" H 13200 1900 50  0001 C CNN
+	1    13200 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:GND-power #PWR0105
+U 1 1 60D79F8F
+P 15400 5350
+F 0 "#PWR0105" H 15400 5100 50  0001 C CNN
+F 1 "GND" H 15405 5177 50  0000 C CNN
+F 2 "" H 15400 5350 50  0001 C CNN
+F 3 "" H 15400 5350 50  0001 C CNN
+	1    15400 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:R-Device R1
+U 1 1 62FCB6C1
+P 5400 1900
+F 0 "R1" H 5470 1946 50  0000 L CNN
+F 1 "10K" H 5470 1855 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5330 1900 50  0001 C CNN
+F 3 "~" H 5400 1900 50  0001 C CNN
+	1    5400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:R-Device R2
+U 1 1 62FCE269
+P 5600 2200
+F 0 "R2" H 5670 2246 50  0000 L CNN
+F 1 "10K" H 5670 2155 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5530 2200 50  0001 C CNN
+F 3 "~" H 5600 2200 50  0001 C CNN
+	1    5600 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:R-Device R3
+U 1 1 62FCEF43
+P 6000 2200
+F 0 "R3" H 6070 2246 50  0000 L CNN
+F 1 "10K" H 6070 2155 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5930 2200 50  0001 C CNN
+F 3 "~" H 6000 2200 50  0001 C CNN
+	1    6000 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:R-Device R4
+U 1 1 62FCE665
+P 6200 1900
+F 0 "R4" H 6270 1946 50  0000 L CNN
+F 1 "10K" H 6270 1855 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6130 1900 50  0001 C CNN
+F 3 "~" H 6200 1900 50  0001 C CNN
+	1    6200 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D1
+U 1 1 6078A888
+P 2650 3600
+F 0 "D1" H 2650 3724 50  0000 C CNN
+F 1 "1N4148" H 2650 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2650 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2650 3600 50  0001 C CNN
+	1    2650 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D11
+U 1 1 6078E3B3
+P 2650 4000
+F 0 "D11" H 2650 4124 50  0000 C CNN
+F 1 "1N4148" H 2650 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2650 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2650 4000 50  0001 C CNN
+	1    2650 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D21
+U 1 1 6078EBD3
+P 2650 4400
+F 0 "D21" H 2650 4524 50  0000 C CNN
+F 1 "1N4148" H 2650 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2650 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2650 4400 50  0001 C CNN
+	1    2650 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D33
+U 1 1 6078F1BF
+P 2650 4800
+F 0 "D33" H 2650 4924 50  0000 C CNN
+F 1 "1N4148" H 2650 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2650 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2650 4800 50  0001 C CNN
+	1    2650 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D2
+U 1 1 6078CD11
+P 3250 3600
+F 0 "D2" H 3250 3724 50  0000 C CNN
+F 1 "1N4148" H 3250 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3250 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 3600 50  0001 C CNN
+	1    3250 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D12
+U 1 1 6078E3C8
+P 3250 4000
+F 0 "D12" H 3250 4124 50  0000 C CNN
+F 1 "1N4148" H 3250 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3250 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 4000 50  0001 C CNN
+	1    3250 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D22
+U 1 1 6078EBE8
+P 3250 4400
+F 0 "D22" H 3250 4524 50  0000 C CNN
+F 1 "1N4148" H 3250 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3250 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 4400 50  0001 C CNN
+	1    3250 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D34
+U 1 1 6078F1D4
+P 3250 4800
+F 0 "D34" H 3250 4924 50  0000 C CNN
+F 1 "1N4148" H 3250 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3250 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 4800 50  0001 C CNN
+	1    3250 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D3
+U 1 1 6078D181
+P 3850 3600
+F 0 "D3" H 3850 3724 50  0000 C CNN
+F 1 "1N4148" H 3850 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3850 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 3600 50  0001 C CNN
+	1    3850 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D13
+U 1 1 6078E3CF
+P 3850 4000
+F 0 "D13" H 3850 4124 50  0000 C CNN
+F 1 "1N4148" H 3850 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3850 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 4000 50  0001 C CNN
+	1    3850 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D23
+U 1 1 6078EBEF
+P 3850 4400
+F 0 "D23" H 3850 4524 50  0000 C CNN
+F 1 "1N4148" H 3850 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3850 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 4400 50  0001 C CNN
+	1    3850 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D35
+U 1 1 6078F1DB
+P 3850 4800
+F 0 "D35" H 3850 4924 50  0000 C CNN
+F 1 "1N4148" H 3850 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3850 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 4800 50  0001 C CNN
+	1    3850 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D4
+U 1 1 6078D196
+P 4450 3600
+F 0 "D4" H 4450 3724 50  0000 C CNN
+F 1 "1N4148" H 4450 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4450 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4450 3600 50  0001 C CNN
+	1    4450 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D14
+U 1 1 6078E3E4
+P 4450 4000
+F 0 "D14" H 4450 4124 50  0000 C CNN
+F 1 "1N4148" H 4450 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4450 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4450 4000 50  0001 C CNN
+	1    4450 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D24
+U 1 1 6078EC04
+P 4450 4400
+F 0 "D24" H 4450 4524 50  0000 C CNN
+F 1 "1N4148" H 4450 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4450 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4450 4400 50  0001 C CNN
+	1    4450 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D36
+U 1 1 6078F1F0
+P 4450 4800
+F 0 "D36" H 4450 4924 50  0000 C CNN
+F 1 "1N4148" H 4450 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4450 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4450 4800 50  0001 C CNN
+	1    4450 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D5
+U 1 1 6078D2BF
+P 5050 3600
+F 0 "D5" H 5050 3724 50  0000 C CNN
+F 1 "1N4148" H 5050 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5050 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5050 3600 50  0001 C CNN
+	1    5050 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D15
+U 1 1 6078E3EB
+P 5050 4000
+F 0 "D15" H 5050 4124 50  0000 C CNN
+F 1 "1N4148" H 5050 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5050 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5050 4000 50  0001 C CNN
+	1    5050 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D25
+U 1 1 6078EC0B
+P 5050 4400
+F 0 "D25" H 5050 4524 50  0000 C CNN
+F 1 "1N4148" H 5050 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5050 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5050 4400 50  0001 C CNN
+	1    5050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D37
+U 1 1 6078F1F7
+P 5050 4800
+F 0 "D37" H 5050 4924 50  0000 C CNN
+F 1 "1N4148" H 5050 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5050 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5050 4800 50  0001 C CNN
+	1    5050 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D45
+U 1 1 63270E11
+P 5650 3600
+F 0 "D45" H 5650 3724 50  0000 C CNN
+F 1 "1N4148" H 5650 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5650 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5650 3600 50  0001 C CNN
+	1    5650 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D26
+U 1 1 6078EC20
+P 5650 4400
+F 0 "D26" H 5650 4524 50  0000 C CNN
+F 1 "1N4148" H 5650 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5650 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5650 4400 50  0001 C CNN
+	1    5650 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D38
+U 1 1 6078F20C
+P 5650 4800
+F 0 "D38" H 5650 4924 50  0000 C CNN
+F 1 "1N4148" H 5650 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 5650 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5650 4800 50  0001 C CNN
+	1    5650 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D46
+U 1 1 63272232
+P 6250 3600
+F 0 "D46" H 6250 3724 50  0000 C CNN
+F 1 "1N4148" H 6250 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6250 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6250 3600 50  0001 C CNN
+	1    6250 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D27
+U 1 1 6078EC27
+P 6250 4400
+F 0 "D27" H 6250 4524 50  0000 C CNN
+F 1 "1N4148" H 6250 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6250 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6250 4400 50  0001 C CNN
+	1    6250 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D39
+U 1 1 6078F213
+P 6250 4800
+F 0 "D39" H 6250 4924 50  0000 C CNN
+F 1 "1N4148" H 6250 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6250 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6250 4800 50  0001 C CNN
+	1    6250 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D6
+U 1 1 6078D34C
+P 6850 3600
+F 0 "D6" H 6850 3724 50  0000 C CNN
+F 1 "1N4148" H 6850 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6850 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6850 3600 50  0001 C CNN
+	1    6850 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D16
+U 1 1 6078E41C
+P 6850 4000
+F 0 "D16" H 6850 4124 50  0000 C CNN
+F 1 "1N4148" H 6850 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6850 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6850 4000 50  0001 C CNN
+	1    6850 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D28
+U 1 1 6078EC3C
+P 6850 4400
+F 0 "D28" H 6850 4524 50  0000 C CNN
+F 1 "1N4148" H 6850 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6850 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6850 4400 50  0001 C CNN
+	1    6850 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D40
+U 1 1 6078F228
+P 6850 4800
+F 0 "D40" H 6850 4924 50  0000 C CNN
+F 1 "1N4148" H 6850 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6850 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6850 4800 50  0001 C CNN
+	1    6850 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D7
+U 1 1 6078D4DD
+P 7450 3600
+F 0 "D7" H 7450 3724 50  0000 C CNN
+F 1 "1N4148" H 7450 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7450 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7450 3600 50  0001 C CNN
+	1    7450 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D17
+U 1 1 6078E423
+P 7450 4000
+F 0 "D17" H 7450 4124 50  0000 C CNN
+F 1 "1N4148" H 7450 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7450 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7450 4000 50  0001 C CNN
+	1    7450 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D29
+U 1 1 6078EC43
+P 7450 4400
+F 0 "D29" H 7450 4524 50  0000 C CNN
+F 1 "1N4148" H 7450 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7450 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7450 4400 50  0001 C CNN
+	1    7450 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D41
+U 1 1 6078F22F
+P 7450 4800
+F 0 "D41" H 7450 4924 50  0000 C CNN
+F 1 "1N4148" H 7450 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7450 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7450 4800 50  0001 C CNN
+	1    7450 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D8
+U 1 1 6078D4F2
+P 8050 3600
+F 0 "D8" H 8050 3724 50  0000 C CNN
+F 1 "1N4148" H 8050 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8050 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8050 3600 50  0001 C CNN
+	1    8050 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D18
+U 1 1 6078E438
+P 8050 4000
+F 0 "D18" H 8050 4124 50  0000 C CNN
+F 1 "1N4148" H 8050 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8050 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8050 4000 50  0001 C CNN
+	1    8050 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D30
+U 1 1 6078EC58
+P 8050 4400
+F 0 "D30" H 8050 4524 50  0000 C CNN
+F 1 "1N4148" H 8050 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8050 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8050 4400 50  0001 C CNN
+	1    8050 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D42
+U 1 1 6078F244
+P 8050 4800
+F 0 "D42" H 8050 4924 50  0000 C CNN
+F 1 "1N4148" H 8050 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8050 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8050 4800 50  0001 C CNN
+	1    8050 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D9
+U 1 1 6078D685
+P 8650 3600
+F 0 "D9" H 8650 3724 50  0000 C CNN
+F 1 "1N4148" H 8650 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8650 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8650 3600 50  0001 C CNN
+	1    8650 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D19
+U 1 1 6078E43F
+P 8650 4000
+F 0 "D19" H 8650 4124 50  0000 C CNN
+F 1 "1N4148" H 8650 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8650 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8650 4000 50  0001 C CNN
+	1    8650 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D31
+U 1 1 6078EC5F
+P 8650 4400
+F 0 "D31" H 8650 4524 50  0000 C CNN
+F 1 "1N4148" H 8650 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8650 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8650 4400 50  0001 C CNN
+	1    8650 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D43
+U 1 1 6078F24B
+P 8650 4800
+F 0 "D43" H 8650 4924 50  0000 C CNN
+F 1 "1N4148" H 8650 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8650 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8650 4800 50  0001 C CNN
+	1    8650 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D10
+U 1 1 6078D69A
+P 9250 3600
+F 0 "D10" H 9250 3724 50  0000 C CNN
+F 1 "1N4148" H 9250 3725 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9250 3425 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9250 3600 50  0001 C CNN
+	1    9250 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D20
+U 1 1 6078E454
+P 9250 4000
+F 0 "D20" H 9250 4124 50  0000 C CNN
+F 1 "1N4148" H 9250 4125 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9250 3825 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9250 4000 50  0001 C CNN
+	1    9250 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D32
+U 1 1 6078EC74
+P 9250 4400
+F 0 "D32" H 9250 4524 50  0000 C CNN
+F 1 "1N4148" H 9250 4525 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9250 4225 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9250 4400 50  0001 C CNN
+	1    9250 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:1N4148-Diode D44
+U 1 1 6078F260
+P 9250 4800
+F 0 "D44" H 9250 4924 50  0000 C CNN
+F 1 "1N4148" H 9250 4925 50  0001 C CNN
+F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9250 4625 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9250 4800 50  0001 C CNN
+	1    9250 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C0
+U 1 1 6078B0B7
+P 2400 3700
+F 0 "SWR0C0" V 2350 3700 50  0000 R CNN
+F 1 "SW_Push_45deg" V 2355 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 2400 3700 50  0001 C CNN
+F 3 "" H 2400 3700 50  0001 C CNN
+	1    2400 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C0
+U 1 1 6078E3BA
+P 2400 4100
+F 0 "SWR1C0" V 2350 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 2355 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 2400 4100 50  0001 C CNN
+F 3 "" H 2400 4100 50  0001 C CNN
+	1    2400 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C0
+U 1 1 6078EBDA
+P 2400 4500
+F 0 "SWR2C0" V 2350 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 2355 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 2400 4500 50  0001 C CNN
+F 3 "" H 2400 4500 50  0001 C CNN
+	1    2400 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C0
+U 1 1 6078F1C6
+P 2400 4900
+F 0 "SWR3C0" V 2350 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 2355 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 2400 4900 50  0001 C CNN
+F 3 "" H 2400 4900 50  0001 C CNN
+	1    2400 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C1
+U 1 1 6078CCBD
+P 3000 3700
+F 0 "SWR0C1" V 2950 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 2955 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 3000 3700 50  0001 C CNN
+F 3 "" H 3000 3700 50  0001 C CNN
+	1    3000 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C1
+U 1 1 6078E3C1
+P 3000 4100
+F 0 "SWR1C1" V 2950 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 2955 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 3000 4100 50  0001 C CNN
+F 3 "" H 3000 4100 50  0001 C CNN
+	1    3000 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C1
+U 1 1 6078EBE1
+P 3000 4500
+F 0 "SWR2C1" V 2950 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 2955 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 3000 4500 50  0001 C CNN
+F 3 "" H 3000 4500 50  0001 C CNN
+	1    3000 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C1
+U 1 1 6078F1CD
+P 3000 4900
+F 0 "SWR3C1" V 2950 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 2955 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 3000 4900 50  0001 C CNN
+F 3 "" H 3000 4900 50  0001 C CNN
+	1    3000 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C2
+U 1 1 6078D188
+P 3600 3700
+F 0 "SWR0C2" V 3550 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 3555 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 3600 3700 50  0001 C CNN
+F 3 "" H 3600 3700 50  0001 C CNN
+	1    3600 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C2
+U 1 1 6078E3D6
+P 3600 4100
+F 0 "SWR1C2" V 3550 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 3555 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 3600 4100 50  0001 C CNN
+F 3 "" H 3600 4100 50  0001 C CNN
+	1    3600 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C2
+U 1 1 6078EBF6
+P 3600 4500
+F 0 "SWR2C2" V 3550 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 3555 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 3600 4500 50  0001 C CNN
+F 3 "" H 3600 4500 50  0001 C CNN
+	1    3600 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C2
+U 1 1 6078F1E2
+P 3600 4900
+F 0 "SWR3C2" V 3550 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 3555 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 3600 4900 50  0001 C CNN
+F 3 "" H 3600 4900 50  0001 C CNN
+	1    3600 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C3
+U 1 1 6078D18F
+P 4200 3700
+F 0 "SWR0C3" V 4150 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 4155 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 4200 3700 50  0001 C CNN
+F 3 "" H 4200 3700 50  0001 C CNN
+	1    4200 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C3
+U 1 1 6078E3DD
+P 4200 4100
+F 0 "SWR1C3" V 4150 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 4155 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 4200 4100 50  0001 C CNN
+F 3 "" H 4200 4100 50  0001 C CNN
+	1    4200 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C3
+U 1 1 6078EBFD
+P 4200 4500
+F 0 "SWR2C3" V 4150 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 4155 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 4200 4500 50  0001 C CNN
+F 3 "" H 4200 4500 50  0001 C CNN
+	1    4200 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C3
+U 1 1 6078F1E9
+P 4200 4900
+F 0 "SWR3C3" V 4150 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 4155 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 4200 4900 50  0001 C CNN
+F 3 "" H 4200 4900 50  0001 C CNN
+	1    4200 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C4
+U 1 1 6078D2C6
+P 4800 3700
+F 0 "SWR0C4" V 4750 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 4755 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 4800 3700 50  0001 C CNN
+F 3 "" H 4800 3700 50  0001 C CNN
+	1    4800 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C4
+U 1 1 6078E3F2
+P 4800 4100
+F 0 "SWR1C4" V 4750 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 4755 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 4800 4100 50  0001 C CNN
+F 3 "" H 4800 4100 50  0001 C CNN
+	1    4800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C4
+U 1 1 6078EC12
+P 4800 4500
+F 0 "SWR2C4" V 4750 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 4755 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 4800 4500 50  0001 C CNN
+F 3 "" H 4800 4500 50  0001 C CNN
+	1    4800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C4
+U 1 1 6078F1FE
+P 4800 4900
+F 0 "SWR3C4" V 4750 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 4755 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 4800 4900 50  0001 C CNN
+F 3 "" H 4800 4900 50  0001 C CNN
+	1    4800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C5
+U 1 1 6078EC19
+P 5400 4500
+F 0 "SWR2C5" V 5350 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 5355 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 5400 4500 50  0001 C CNN
+F 3 "" H 5400 4500 50  0001 C CNN
+	1    5400 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C5
+U 1 1 6078F205
+P 5400 4900
+F 0 "SWR3C5" V 5350 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 5355 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 5400 4900 50  0001 C CNN
+F 3 "" H 5400 4900 50  0001 C CNN
+	1    5400 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C6
+U 1 1 6078EC2E
+P 6000 4500
+F 0 "SWR2C6" V 5950 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 5955 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 6000 4500 50  0001 C CNN
+F 3 "" H 6000 4500 50  0001 C CNN
+	1    6000 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C6
+U 1 1 6078F21A
+P 6000 4900
+F 0 "SWR3C6" V 5950 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 5955 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 6000 4900 50  0001 C CNN
+F 3 "" H 6000 4900 50  0001 C CNN
+	1    6000 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C7
+U 1 1 6078D345
+P 6600 3700
+F 0 "SWR0C7" V 6550 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 6555 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 6600 3700 50  0001 C CNN
+F 3 "" H 6600 3700 50  0001 C CNN
+	1    6600 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C7
+U 1 1 6078E415
+P 6600 4100
+F 0 "SWR1C7" V 6550 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 6555 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 6600 4100 50  0001 C CNN
+F 3 "" H 6600 4100 50  0001 C CNN
+	1    6600 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C7
+U 1 1 6078EC35
+P 6600 4500
+F 0 "SWR2C7" V 6550 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 6555 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 6600 4500 50  0001 C CNN
+F 3 "" H 6600 4500 50  0001 C CNN
+	1    6600 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C7
+U 1 1 6078F221
+P 6600 4900
+F 0 "SWR3C7" V 6550 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 6555 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 6600 4900 50  0001 C CNN
+F 3 "" H 6600 4900 50  0001 C CNN
+	1    6600 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C8
+U 1 1 6078D4E4
+P 7200 3700
+F 0 "SWR0C8" V 7150 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 7155 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 7200 3700 50  0001 C CNN
+F 3 "" H 7200 3700 50  0001 C CNN
+	1    7200 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C8
+U 1 1 6078E42A
+P 7200 4100
+F 0 "SWR1C8" V 7150 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 7155 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 7200 4100 50  0001 C CNN
+F 3 "" H 7200 4100 50  0001 C CNN
+	1    7200 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C8
+U 1 1 6078EC4A
+P 7200 4500
+F 0 "SWR2C8" V 7150 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 7155 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 7200 4500 50  0001 C CNN
+F 3 "" H 7200 4500 50  0001 C CNN
+	1    7200 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C8
+U 1 1 6078F236
+P 7200 4900
+F 0 "SWR3C8" V 7150 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 7155 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 7200 4900 50  0001 C CNN
+F 3 "" H 7200 4900 50  0001 C CNN
+	1    7200 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C9
+U 1 1 6078D4EB
+P 7800 3700
+F 0 "SWR0C9" V 7750 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 7755 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 7800 3700 50  0001 C CNN
+F 3 "" H 7800 3700 50  0001 C CNN
+	1    7800 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C9
+U 1 1 6078E431
+P 7800 4100
+F 0 "SWR1C9" V 7750 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 7755 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 7800 4100 50  0001 C CNN
+F 3 "" H 7800 4100 50  0001 C CNN
+	1    7800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C9
+U 1 1 6078EC51
+P 7800 4500
+F 0 "SWR2C9" V 7750 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 7755 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 7800 4500 50  0001 C CNN
+F 3 "" H 7800 4500 50  0001 C CNN
+	1    7800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C9
+U 1 1 6078F23D
+P 7800 4900
+F 0 "SWR3C9" V 7750 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 7755 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 7800 4900 50  0001 C CNN
+F 3 "" H 7800 4900 50  0001 C CNN
+	1    7800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C10
+U 1 1 6078D68C
+P 8400 3700
+F 0 "SWR0C10" V 8350 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 8355 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 8400 3700 50  0001 C CNN
+F 3 "" H 8400 3700 50  0001 C CNN
+	1    8400 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C10
+U 1 1 6078E446
+P 8400 4100
+F 0 "SWR1C10" V 8350 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 8355 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 8400 4100 50  0001 C CNN
+F 3 "" H 8400 4100 50  0001 C CNN
+	1    8400 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C10
+U 1 1 6078EC66
+P 8400 4500
+F 0 "SWR2C10" V 8350 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 8355 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 8400 4500 50  0001 C CNN
+F 3 "" H 8400 4500 50  0001 C CNN
+	1    8400 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C10
+U 1 1 6078F252
+P 8400 4900
+F 0 "SWR3C10" V 8350 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 8355 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 8400 4900 50  0001 C CNN
+F 3 "" H 8400 4900 50  0001 C CNN
+	1    8400 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR0C11
+U 1 1 6078D693
+P 9000 3700
+F 0 "SWR0C11" V 8950 3650 50  0000 R CNN
+F 1 "SW_Push_45deg" V 8955 3559 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 9000 3700 50  0001 C CNN
+F 3 "" H 9000 3700 50  0001 C CNN
+	1    9000 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR1C11
+U 1 1 6078E44D
+P 9000 4100
+F 0 "SWR1C11" V 8950 4050 50  0000 R CNN
+F 1 "SW_Push_45deg" V 8955 3959 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 9000 4100 50  0001 C CNN
+F 3 "" H 9000 4100 50  0001 C CNN
+	1    9000 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR2C11
+U 1 1 6078EC6D
+P 9000 4500
+F 0 "SWR2C11" V 8950 4450 50  0000 R CNN
+F 1 "SW_Push_45deg" V 8955 4359 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 9000 4500 50  0001 C CNN
+F 3 "" H 9000 4500 50  0001 C CNN
+	1    9000 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:SW_Push_45deg-Switch SWR3C11
+U 1 1 6078F259
+P 9000 4900
+F 0 "SWR3C11" V 8950 4850 50  0000 R CNN
+F 1 "SW_Push_45deg" V 8955 4759 50  0001 R CNN
+F 2 "lib_fp:cherryMX" H 9000 4900 50  0001 C CNN
+F 3 "" H 9000 4900 50  0001 C CNN
+	1    9000 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:C-Device C2
+U 1 1 62FD0FF7
+P 5000 2350
+F 0 "C2" V 4748 2350 50  0000 C CNN
+F 1 "100nF" V 4839 2350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5038 2200 50  0001 C CNN
+F 3 "~" H 5000 2350 50  0001 C CNN
+	1    5000 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:C-Device C1
+U 1 1 62FD084C
+P 5000 2750
+F 0 "C1" V 4748 2750 50  0000 C CNN
+F 1 "100nF" V 4839 2750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5038 2600 50  0001 C CNN
+F 3 "~" H 5000 2750 50  0001 C CNN
+	1    5000 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:C-Device C4
+U 1 1 62FD147B
+P 6600 2350
+F 0 "C4" V 6348 2350 50  0000 C CNN
+F 1 "100nF" V 6439 2350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6638 2200 50  0001 C CNN
+F 3 "~" H 6600 2350 50  0001 C CNN
+	1    6600 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:C-Device C3
+U 1 1 62FD1C75
+P 6600 2750
+F 0 "C3" V 6348 2750 50  0000 C CNN
+F 1 "100nF" V 6439 2750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6638 2600 50  0001 C CNN
+F 3 "~" H 6600 2750 50  0001 C CNN
+	1    6600 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED1
+U 1 1 608BA51D
+P 2100 7600
+F 0 "LED1" H 2100 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 2100 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 2100 7600 50  0001 C CNN
+F 3 "" H 2100 7600 50  0001 C CNN
+	1    2100 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED22
+U 1 1 608C09D0
+P 2100 8100
+F 0 "LED22" H 2100 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 2100 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 2100 8100 50  0001 C CNN
+F 3 "" H 2100 8100 50  0001 C CNN
+	1    2100 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED23
+U 1 1 608C2DCB
+P 2100 8600
+F 0 "LED23" H 2100 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 2100 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 2100 8600 50  0001 C CNN
+F 3 "" H 2100 8600 50  0001 C CNN
+	1    2100 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED34
+U 1 1 608C51DE
+P 2100 9100
+F 0 "LED34" H 2100 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 2100 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 2100 9100 50  0001 C CNN
+F 3 "" H 2100 9100 50  0001 C CNN
+	1    2100 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED2
+U 1 1 608BAC1F
+P 2950 7600
+F 0 "LED2" H 2950 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 2950 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 2950 7600 50  0001 C CNN
+F 3 "" H 2950 7600 50  0001 C CNN
+	1    2950 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED21
+U 1 1 608C09D7
+P 2950 8100
+F 0 "LED21" H 2950 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 2950 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 2950 8100 50  0001 C CNN
+F 3 "" H 2950 8100 50  0001 C CNN
+	1    2950 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED24
+U 1 1 608C2DD2
+P 2950 8600
+F 0 "LED24" H 2950 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 2950 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 2950 8600 50  0001 C CNN
+F 3 "" H 2950 8600 50  0001 C CNN
+	1    2950 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED35
+U 1 1 608C51E5
+P 2950 9100
+F 0 "LED35" H 2950 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 2950 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 2950 9100 50  0001 C CNN
+F 3 "" H 2950 9100 50  0001 C CNN
+	1    2950 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED3
+U 1 1 608BAD5E
+P 3800 7600
+F 0 "LED3" H 3800 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 3800 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 3800 7600 50  0001 C CNN
+F 3 "" H 3800 7600 50  0001 C CNN
+	1    3800 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED20
+U 1 1 608C09DE
+P 3800 8100
+F 0 "LED20" H 3800 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 3800 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 3800 8100 50  0001 C CNN
+F 3 "" H 3800 8100 50  0001 C CNN
+	1    3800 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED25
+U 1 1 608C2DD9
+P 3800 8600
+F 0 "LED25" H 3800 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 3800 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 3800 8600 50  0001 C CNN
+F 3 "" H 3800 8600 50  0001 C CNN
+	1    3800 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED36
+U 1 1 608C51EC
+P 3800 9100
+F 0 "LED36" H 3800 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 3800 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 3800 9100 50  0001 C CNN
+F 3 "" H 3800 9100 50  0001 C CNN
+	1    3800 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED4
+U 1 1 608BAEAC
+P 4650 7600
+F 0 "LED4" H 4650 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 4650 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 4650 7600 50  0001 C CNN
+F 3 "" H 4650 7600 50  0001 C CNN
+	1    4650 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED19
+U 1 1 608C09E5
+P 4650 8100
+F 0 "LED19" H 4650 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 4650 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 4650 8100 50  0001 C CNN
+F 3 "" H 4650 8100 50  0001 C CNN
+	1    4650 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED26
+U 1 1 608C2DE0
+P 4650 8600
+F 0 "LED26" H 4650 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 4650 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 4650 8600 50  0001 C CNN
+F 3 "" H 4650 8600 50  0001 C CNN
+	1    4650 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED37
+U 1 1 608C51F3
+P 4650 9100
+F 0 "LED37" H 4650 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 4650 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 4650 9100 50  0001 C CNN
+F 3 "" H 4650 9100 50  0001 C CNN
+	1    4650 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED5
+U 1 1 608BB011
+P 5500 7600
+F 0 "LED5" H 5500 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 5500 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 5500 7600 50  0001 C CNN
+F 3 "" H 5500 7600 50  0001 C CNN
+	1    5500 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED18
+U 1 1 608C09EC
+P 5500 8100
+F 0 "LED18" H 5500 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 5500 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 5500 8100 50  0001 C CNN
+F 3 "" H 5500 8100 50  0001 C CNN
+	1    5500 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED27
+U 1 1 608C2DE7
+P 5500 8600
+F 0 "LED27" H 5500 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 5500 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 5500 8600 50  0001 C CNN
+F 3 "" H 5500 8600 50  0001 C CNN
+	1    5500 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED38
+U 1 1 608C51FA
+P 5500 9100
+F 0 "LED38" H 5500 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 5500 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 5500 9100 50  0001 C CNN
+F 3 "" H 5500 9100 50  0001 C CNN
+	1    5500 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED6
+U 1 1 608BB159
+P 6350 7600
+F 0 "LED6" H 6350 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 6350 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 6350 7600 50  0001 C CNN
+F 3 "" H 6350 7600 50  0001 C CNN
+	1    6350 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED17
+U 1 1 608C09F3
+P 6350 8100
+F 0 "LED17" H 6350 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 6350 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 6350 8100 50  0001 C CNN
+F 3 "" H 6350 8100 50  0001 C CNN
+	1    6350 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED28
+U 1 1 608C2DEE
+P 6350 8600
+F 0 "LED28" H 6350 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 6350 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 6350 8600 50  0001 C CNN
+F 3 "" H 6350 8600 50  0001 C CNN
+	1    6350 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED39
+U 1 1 608C5201
+P 6350 9100
+F 0 "LED39" H 6350 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 6350 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 6350 9100 50  0001 C CNN
+F 3 "" H 6350 9100 50  0001 C CNN
+	1    6350 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED7
+U 1 1 608BB2BC
+P 7200 7600
+F 0 "LED7" H 7200 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 7200 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 7200 7600 50  0001 C CNN
+F 3 "" H 7200 7600 50  0001 C CNN
+	1    7200 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED16
+U 1 1 608C09FA
+P 7200 8100
+F 0 "LED16" H 7200 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 7200 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 7200 8100 50  0001 C CNN
+F 3 "" H 7200 8100 50  0001 C CNN
+	1    7200 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED29
+U 1 1 608C2DF5
+P 7200 8600
+F 0 "LED29" H 7200 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 7200 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 7200 8600 50  0001 C CNN
+F 3 "" H 7200 8600 50  0001 C CNN
+	1    7200 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED40
+U 1 1 608C5208
+P 7200 9100
+F 0 "LED40" H 7200 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 7200 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 7200 9100 50  0001 C CNN
+F 3 "" H 7200 9100 50  0001 C CNN
+	1    7200 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED8
+U 1 1 608BB434
+P 8050 7600
+F 0 "LED8" H 8050 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 8050 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 8050 7600 50  0001 C CNN
+F 3 "" H 8050 7600 50  0001 C CNN
+	1    8050 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED15
+U 1 1 608C0A01
+P 8050 8100
+F 0 "LED15" H 8050 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 8050 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 8050 8100 50  0001 C CNN
+F 3 "" H 8050 8100 50  0001 C CNN
+	1    8050 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED30
+U 1 1 608C2DFC
+P 8050 8600
+F 0 "LED30" H 8050 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 8050 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 8050 8600 50  0001 C CNN
+F 3 "" H 8050 8600 50  0001 C CNN
+	1    8050 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED41
+U 1 1 608C520F
+P 8050 9100
+F 0 "LED41" H 8050 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 8050 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 8050 9100 50  0001 C CNN
+F 3 "" H 8050 9100 50  0001 C CNN
+	1    8050 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED9
+U 1 1 608BB5BB
+P 8900 7600
+F 0 "LED9" H 8900 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 8900 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 8900 7600 50  0001 C CNN
+F 3 "" H 8900 7600 50  0001 C CNN
+	1    8900 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED14
+U 1 1 608C0A08
+P 8900 8100
+F 0 "LED14" H 8900 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 8900 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 8900 8100 50  0001 C CNN
+F 3 "" H 8900 8100 50  0001 C CNN
+	1    8900 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED31
+U 1 1 608C2E03
+P 8900 8600
+F 0 "LED31" H 8900 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 8900 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 8900 8600 50  0001 C CNN
+F 3 "" H 8900 8600 50  0001 C CNN
+	1    8900 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED42
+U 1 1 608C5216
+P 8900 9100
+F 0 "LED42" H 8900 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 8900 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 8900 9100 50  0001 C CNN
+F 3 "" H 8900 9100 50  0001 C CNN
+	1    8900 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED10
+U 1 1 608BB807
+P 9750 7600
+F 0 "LED10" H 9750 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 9750 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 9750 7600 50  0001 C CNN
+F 3 "" H 9750 7600 50  0001 C CNN
+	1    9750 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED13
+U 1 1 608C0A0F
+P 9750 8100
+F 0 "LED13" H 9750 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 9750 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 9750 8100 50  0001 C CNN
+F 3 "" H 9750 8100 50  0001 C CNN
+	1    9750 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED32
+U 1 1 608C2E0A
+P 9750 8600
+F 0 "LED32" H 9750 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 9750 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 9750 8600 50  0001 C CNN
+F 3 "" H 9750 8600 50  0001 C CNN
+	1    9750 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED43
+U 1 1 608C521D
+P 9750 9100
+F 0 "LED43" H 9750 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 9750 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 9750 9100 50  0001 C CNN
+F 3 "" H 9750 9100 50  0001 C CNN
+	1    9750 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED11
+U 1 1 608BB9A6
+P 10600 7600
+F 0 "LED11" H 10600 7875 50  0000 C CNN
+F 1 "ws2812_2020" H 10600 7784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 10600 7600 50  0001 C CNN
+F 3 "" H 10600 7600 50  0001 C CNN
+	1    10600 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED12
+U 1 1 608C0A16
+P 10600 8100
+F 0 "LED12" H 10600 8375 50  0000 C CNN
+F 1 "ws2812_2020" H 10600 8284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 10600 8100 50  0001 C CNN
+F 3 "" H 10600 8100 50  0001 C CNN
+	1    10600 8100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED33
+U 1 1 608C2E11
+P 10600 8600
+F 0 "LED33" H 10600 8875 50  0000 C CNN
+F 1 "ws2812_2020" H 10600 8784 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 10600 8600 50  0001 C CNN
+F 3 "" H 10600 8600 50  0001 C CNN
+	1    10600 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ws2812_2020:ws2812_2020 LED44
+U 1 1 608C5224
+P 10600 9100
+F 0 "LED44" H 10600 9375 50  0000 C CNN
+F 1 "ws2812_2020" H 10600 9284 50  0000 C CNN
+F 2 "lib_fp:ws2812_2020" H 10600 9100 50  0001 C CNN
+F 3 "" H 10600 9100 50  0001 C CNN
+	1    10600 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:Rotary_Encoder_Switch-Device SW1
+U 1 1 60787D5A
+P 5500 3050
+F 0 "SW1" H 5500 3417 50  0001 C CNN
+F 1 "Rotary_Encoder_Switch" H 5500 3326 50  0001 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles" H 5350 3210 50  0001 C CNN
+F 3 "~" H 5500 3310 50  0001 C CNN
+	1    5500 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L keyboardio_blackpill-rescue:Rotary_Encoder_Switch-Device SW2
+U 1 1 60787C8F
+P 6100 3050
+F 0 "SW2" H 6100 3417 50  0001 C CNN
+F 1 "Rotary_Encoder_Switch" H 6100 3326 50  0001 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles" H 5950 3210 50  0001 C CNN
+F 3 "~" H 6100 3310 50  0001 C CNN
+	1    6100 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L stm32_blackpill:stm32_blackpill U1
+U 1 1 607F710F
+P 12450 2750
+F 0 "U1" H 12450 3925 50  0000 C CNN
+F 1 "black_pill" H 12450 3834 50  0000 C CNN
+F 2 "lib_fp:stm32_blackpill" H 12450 2750 50  0001 C CNN
+F 3 "" H 12450 2750 50  0001 C CNN
+	1    12450 2750
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

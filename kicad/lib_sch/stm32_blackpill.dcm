@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP stm32_blackpill
+D STM32F411CEU6
+$ENDCMP
+#
+#End Doc Library
