@@ -8,3 +8,10 @@ and the qmk modified firmware is [here](https://github.com/vahidtaghiloo/qmk_fir
 ![kb](blackpill_keyboard.png)
 ![kb_pcb](keyboard_pcb.jpg)
 ![kb_video](keyboard.gif)
+
+# A few words:
+- Due to current limitation of the onboard voltage regulator, some backlight 
+  animations are not smooth. Changing the regulator is not an option because I
+  could not find a similar package.
+- Due to the higher frequency crystal (25 MHz), sometimes the black pill does not
+  enter the DFU mode. Using a 12 Mhz oscilator seems to solve the issue.   
