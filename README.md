@@ -6,3 +6,5 @@ is [here](https://github.com/vahidtaghiloo/qmk-firmware-build/releases/tag/test)
 and the qmk modified firmware is [here](https://github.com/vahidtaghiloo/qmk_firmware/tree/master/keyboards/blackpill_mechanical_keyboard)
 
 ![kb](blackpill_keyboard.png)
+![kb_pcb](keyboard_pcb.jpg)
+![kb_video](keyboard.gif)
